@@ -1,15 +1,15 @@
 ---
-name: Q&A Control & Appendix Weaponization
-slug: qa-control-appendix-weaponization
-category: strategy
-description: Control Q&A like a pro: answer with authority, steer the room, and use the appendix to win trust on demand.
-difficulty: advanced
+name: "Q and A Control and Appendix Weaponization"
+slug: "qa-control-appendix-weaponization"
+category: "strategy"
+description: "Control Q and A like a pro: answer with authority, steer the room, and use the appendix to win trust."
+difficulty: "advanced"
 tags:
-  - q-and-a
-  - objections
-  - control
-  - credibility
-  - appendix
+  - "qa"
+  - "objections"
+  - "control"
+  - "credibility"
+  - "appendix"
 ---
 
 # Q&A Control & Appendix Weaponization

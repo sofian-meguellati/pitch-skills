@@ -1,136 +1,118 @@
 # Pitch Skills
 
-> The open-source operating system for investor-ready founders.
+A structured skill library for founders who want to become investor-ready.
 
-Pitch Skills is a structured skill library for builders who pitch in the arena.
-
-Not theory.  
-Not MBA slides.  
-Not motivational noise.  
-
-This is tactical, operator-grade pitching.
+Pitch Skills breaks pitching into discrete, trainable components.
+Each skill is designed to be practical, specific, and applied.
 
 ---
 
-## Why This Exists
+## Philosophy
 
-Most founders don’t fail because of bad ideas.
+Pitching is not talent.
 
-They fail because they:
+It is a system composed of:
 
-- can’t compress their message
-- leak doubt through language
-- present information without tension
-- show numbers without signaling credibility
-- lose control in Q&A
+- clarity
+- structure
+- positioning
+- signaling
+- controlled delivery
 
-Pitch Skills turns pitching into a trainable system.
+Each skill in this repository isolates one of these components.
 
 ---
 
-# 🧠 Skill Architecture
+## Skill Format
 
 Every skill follows the same structure:
 
-- Summary  
-- What This Skill Really Is  
-- Why It Matters  
-- Core Components  
-- Framework / Method  
-- Examples (Bad vs Better)  
-- Failure Modes  
-- Practice Drills  
-- What Mastery Looks Like  
+- Summary
+- What This Skill Really Is
+- Why It Matters
+- Core Components
+- Framework / Method
+- Examples (Bad vs Better)
+- Failure Modes
+- Practice Drills
+- What Mastery Looks Like
+- Related Skills
 
-This is deliberate.
-
-Clarity > volume.
-
----
-
-# 📚 Skill Categories
-
-## 🧱 Fundamentals
-Core mental and linguistic foundations.
-
-- Problem–Solution Compression  
-- Linguistic Certainty  
-- Multiverse Pitching  
-
-→ [`View Fundamentals`](./skills/fundamentals/README.md)
+Consistency is intentional.
 
 ---
 
-## 🏗 Structure
-How to build a pitch that moves.
+## Categories
 
-- Narrative Tension Engineering  
-- The 10-Slide Raise Architecture  
-- Traction Signaling Mastery  
-- Competitive Positioning Clarity  
+### Fundamentals
 
-→ [`View Structure`](./skills/structure/README.md)
+Core thinking and messaging foundations.
 
----
-
-## 🎯 Strategy
-How to win rooms, not just present.
-
-- Q&A Control & Appendix Weaponization  
-- Stakeholder Mapping  
-
-→ [`View Strategy`](./skills/strategy/README.md)
+- [Problem–Solution Compression](./skills/fundamentals/problem-solution-compression/SKILL.md)
+- [Linguistic Certainty](./skills/fundamentals/linguistic-certainty/SKILL.md)
+- [Multiverse Pitching](./skills/fundamentals/multiverse-pitching/SKILL.md)
 
 ---
 
-## 💰 Fundraising
-Signal fundability before diligence.
+### Structure
 
-- Raise Readiness Signaling  
+How to architect a pitch that builds conviction.
 
-→ [`View Fundraising`](./skills/fundraising/README.md)
-
----
-
-# 🗺 How to Use This
-
-If you're a founder:
-
-1. Start with **Problem–Solution Compression**
-2. Move to **Narrative Tension Engineering**
-3. Build your deck using **10-Slide Raise Architecture**
-4. Stress test with **Q&A Control**
-5. Refine using **Raise Readiness Signaling**
-
-If you're preparing for Demo Day:
-- Master compression
-- Master tension
-- Master traction signaling
-
-If you're raising:
-- Focus on signaling, not storytelling.
+- [Narrative Tension Engineering](./skills/structure/narrative-tension-engineering/SKILL.md)
+- [The 10-Slide Raise Architecture](./skills/structure/ten-slide-raise-architecture/SKILL.md)
+- [Traction Signaling Mastery](./skills/structure/traction-signaling-mastery/SKILL.md)
+- [Competitive Positioning Clarity](./skills/structure/competitive-positioning-clarity/SKILL.md)
 
 ---
 
-# ⚙ Contributing
+### Strategy
 
-This is not a blog.
+How to control rooms and reduce objections.
 
-If you contribute:
-
-- Be specific  
-- Use examples  
-- Include failure modes  
-- Include drills  
-- Keep it tactical  
-
-See [`CONTRIBUTING.md`](./CONTRIBUTING.md)
+- [Q&A Control & Appendix Weaponization](./skills/strategy/qa-control-appendix-weaponization/SKILL.md)
+- [Stakeholder Mapping](./skills/strategy/stakeholder-mapping/SKILL.md)
 
 ---
 
-# About
+### Fundraising
 
-Built by founders, for founders.
+How to signal fundability before diligence.
 
-If you want hands-on application of these frameworks  
-into your own deck → reach out directly.
+- [Raise Readiness Signaling](./skills/fundraising/raise-readiness-signaling/SKILL.md)
+
+---
+
+## How to Use This Repository
+
+If you are building a deck:
+
+1. Start with Problem–Solution Compression.
+2. Build tension before introducing your solution.
+3. Add traction only when it signals something meaningful.
+4. Prepare your appendix before you present.
+5. Ensure your raise is tied to milestones.
+
+If you are preparing for investor meetings:
+
+- Focus on signaling readiness.
+- Anticipate objections.
+- Practice concise answers.
+
+---
+
+## Contributing
+
+This repository prioritizes:
+
+- specificity over general advice
+- examples over abstraction
+- drills over theory
+
+See CONTRIBUTING.md for guidelines.
+
+---
+
+## License
+
+MIT
+

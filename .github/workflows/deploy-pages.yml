@@ -28,7 +28,7 @@ jobs:
       - name: Prepare Pages artifact
         run: |
           mkdir -p public
-          cp index.html css2 favicon.svg sofian-googleforstartups.jpeg public/
+          cp index.html css2 favicon.svg sofian-googleforstartups.jpeg og.png public/
 
           touch public/.nojekyll
 
